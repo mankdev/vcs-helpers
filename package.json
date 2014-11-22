@@ -1,0 +1,19 @@
+{
+  "name": "vcs-helpers",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mankdev/vcs-helpers.git"
+  },
+  "author": "mankdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mankdev/vcs-helpers/issues"
+  },
+  "homepage": "https://github.com/mankdev/vcs-helpers"
+}
